@@ -5,4 +5,4 @@
   tasks:
     -
      name: Creates file
-     file: path=/tmp/ansible.txt state=touch
+     file: path=/src/www/ansible.txt state=touch
